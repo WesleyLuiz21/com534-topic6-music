@@ -1,2 +1,4 @@
-class Single(val aSide: Song, val bSide: Song) {
+class Single(
+    val aSide: Song, val bSide: Song
+) {
 }
